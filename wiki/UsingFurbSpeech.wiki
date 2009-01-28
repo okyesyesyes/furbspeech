@@ -1,4 +1,4 @@
-#summary This wiki page will help you, step by step, how to use FurbSpeech API in a Java Project with Eclipse IDE.
+#summary This wiki page will help you, step by step, how to use FurbSpeech API in a Java project with Eclipse IDE.
 
   # Create a new Java Project;
   # Add the !FurbSpeech jar to the classpath;
