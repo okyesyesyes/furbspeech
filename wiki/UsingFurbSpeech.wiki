@@ -1,13 +1,8 @@
-#summary This wiki page will help you, step by step, how to use the FurbSpeech API in a Java Project.
+#summary This wiki page will help you, step by step, how to use FurbSpeech API in a Java Project with Eclipse IDE.
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+  # Create a new Java Project;
+  # Add the FurbSpeech jar to the classpath;
+  # Download the resources archive file by clicking [http://furbspeech.googlecode.com/files/furb-speech-rsrc.zip here];
+  # If you don't have yet, create a new source folder in your project called resources or something like this;
+  # Extract the downloaded zip file into your new resources folder;
+  # That's it, very simple! :-)
